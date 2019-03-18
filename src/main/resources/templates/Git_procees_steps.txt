@@ -5,11 +5,28 @@ Step3: Open intelliJ IDEA and click on "VCS" --> git --> clone there provide git
 and paste git url and select project path then click OK.
 
 =====***======
-Commit : its  used to save your local changes to local repository
+Commit : ts  used to save your local changes to local repository
 Fetch : fetch to retrieve new work done by other people.
 Pull  : pull remote branch changes to local branch
 Push  : push local changes to remote brach
 clone : Complete copy of another user's repository,
+
+
+ PULL Process
+ ============
+Pull changes from remote to local master branch
+
+Master branch (Local)   <<----  Matser branch(Remote)
+
+Marge local master to created branch
+
+Created branch (Local)  <<----  Master branch (Local)
+
+
+
+
+
+
 
 
 
