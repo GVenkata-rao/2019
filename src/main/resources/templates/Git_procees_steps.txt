@@ -1,0 +1,32 @@
+Step1: First create a git account, using this url "https://github.com"
+Step2: Create repository in git hub and copy that repository  URL
+for example "https://github.com/GVenkata-rao/2019.git"
+Step3: Open intelliJ IDEA and click on "VCS" --> git --> clone there provide git repository url which u have copied in git hub
+and paste git url and select project path then click OK.
+
+=====***======
+Commit : ts  used to save your local changes to local repository
+Fetch : fetch to retrieve new work done by other people.
+Pull  : pull remote branch changes to local branch
+Push  : push local changes to remote brach
+clone : Complete copy of another user's repository,
+
+
+ PULL Process
+ ============
+Pull changes from remote to local master branch
+
+Master branch (Local)   <<----  Matser branch(Remote)
+
+Marge local master to created branch
+
+Created branch (Local)  <<----  Master branch (Local)
+
+
+
+
+
+
+
+
+
