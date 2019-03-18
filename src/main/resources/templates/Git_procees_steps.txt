@@ -4,5 +4,12 @@ for example "https://github.com/GVenkata-rao/2019.git"
 Step3: Open intelliJ IDEA and click on "VCS" --> git --> clone there provide git repository url which u have copied in git hub
 and paste git url and select project path then click OK.
 
+=====***======
+Commit : its  used to save your local changes to local repository
+Fetch : fetch to retrieve new work done by other people.
+Pull  : pull remote branch changes to local branch
+Push  : push local changes to remote brach
+clone : Complete copy of another user's repository,
+
 
 
