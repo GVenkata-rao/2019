@@ -12,8 +12,8 @@ Push  : push local changes to remote brach
 clone : Complete copy of another user's repository,
 
 
- PULL Process
- ============
+PULL Process
+============
 Pull changes from remote to local master branch
 
 Master branch (Local)   <<----  Matser branch(Remote)
@@ -21,12 +21,6 @@ Master branch (Local)   <<----  Matser branch(Remote)
 Marge local master to created branch
 
 Created branch (Local)  <<----  Master branch (Local)
-
-
-
-
-
-
 
 
 
